@@ -6,7 +6,7 @@
 
 The dataset used in this analysis
 
-The dataset can be viewed and downloaded from
+The dataset can be viewed and downloaded from [Kaggle](https://www.kaggle.com/datasets/abdelmalekeladjelet/sentiment-analysis-dataset)
 
 |Variable|Explanatory|
 |---|---|
