@@ -4,9 +4,7 @@
 
 ### Data
 
-The dataset used in this analysis a large-scale dataset containing 241,000+ English language commentssourced from various online platforms. Each comment is annotated with a sentiment label: `Negative` (0), `Neutral` (1), and `Positive` (2).
-
-The dataset can be viewed and downloaded from [Kaggle](https://www.kaggle.com/datasets/abdelmalekeladjelet/sentiment-analysis-dataset)
+The dataset used in this analysis a large-scale dataset containing 241,000+ English language commentssourced from various online platforms. Each comment is annotated with a sentiment label: `Negative` (0), `Neutral` (1), and `Positive` (2). The goal of this project is to train and evaluate multi-class sentiment analysis models for real-world text data analysis. The dataset can be viewed and downloaded from [Kaggle](https://www.kaggle.com/datasets/abdelmalekeladjelet/sentiment-analysis-dataset)
 
 |Variable|Explanatory|
 |---|---|
