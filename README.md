@@ -10,3 +10,5 @@ The dataset can be viewed and downloaded from
 
 |Variable|Explanatory|
 |---|---|
+
+### Exploratory Data Analysis
