@@ -1,4 +1,4 @@
-## Machine Learning Model for Text Classification
+## Natural language Processing Model for Sentiment Analysis
 
 ### Introduction
 
