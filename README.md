@@ -1,4 +1,4 @@
-## Natural language Processing Model for Sentiment Analysis
+## Natural Language Processing  (NLP) Model for Sentiment Analysis
 
 ### Introduction
 
