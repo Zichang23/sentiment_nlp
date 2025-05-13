@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This project focuses on developing a Natural Language Processing (NLP) model for sentiment analysis
+This project focuses on developing a Natural Language Processing (NLP) model for sentiment analysis, aiming to classify text into positive, negative, or neutral sentiment.
 
 ### Data
 
