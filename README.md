@@ -10,6 +10,8 @@ The dataset used in this analysis a large-scale dataset containing 241,000+ Engl
 
 ### Exploratory Data Analysis
 
+Exploratory Data Analysis (EDA) reveals patterns,
+
 ### Data Preprocessing
 
 The dataset is already preprocessed, including lowercase, cleaned from punctuation, URLs, numbers, and stopwords, and is ready for NLP pipelines.
