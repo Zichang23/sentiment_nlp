@@ -14,7 +14,7 @@ Exploratory Data Analysis (EDA) reveals patterns, anomalies, and relationships w
 
 ### Data Preprocessing
 
-The dataset is already preprocessed, including lowercase, cleaned from punctuation, URLs, numbers, and stopwords, and is ready for NLP pipelines .
+The dataset is already preprocessed, including lowercase, cleaned from punctuation, URLs, numbers, and stopwords, and is ready for NLP pipelines.
 
 ### Model Fitting
 
