@@ -10,7 +10,7 @@ The dataset used in this analysis a large-scale dataset containing 241,000+ Engl
 
 ### Exploratory Data Analysis
 
-Exploratory Data Analysis (EDA) reveals patterns, anomalies, and relationships within the dataset. Us ing summary statistics and visualizations, we identify key insights that guide preprocessing and modeling decisions.
+Exploratory Data Analysis (EDA) reveals patterns, anomalies, and relationships within the dataset. Using summary statistics and visualizations, we identify key insights that guide preprocessing and modeling decisions.
 
 ### Data Preprocessing
 
