@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This project focuses on developing a Natural Language Processing (NLP) model for sentiment analysis, aiming to classify text into positive, negative, or neutral sentiment.The project’s goal is to enhance automated sentiment recognition, improving business insights, customer satisfaction analysis, and social media monitoring for more data-driven decision-making.
+This project focuses on developing a Natural Language Processing (NLP) model for sentiment analysis, aiming to classify text into positive, negative, or neutral sentiment.The project’s goal is to enhance automated sentiment recognition, improving business insights,  customer satisfaction analysis, and social media monitoring for more data-driven decision-making.
 
 ### Data
 
